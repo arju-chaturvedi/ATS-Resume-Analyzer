@@ -22,7 +22,7 @@ Built using Google Gemini's **Generative AI** + **Streamlit**.
 
 ## 📸 Demo GIF
 
-![Demo](demo.gif)
+![Demo](Screenshot 2025-04-25 at 12.51.11 PM.png)
 
 ---
 
