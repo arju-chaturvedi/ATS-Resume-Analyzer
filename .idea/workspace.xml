@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd83ea5f-8841-4898-b28e-a1311dbcc571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore " afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ATS Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/bin/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/bin/python3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/bin/python3.13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +61,7 @@
       <workItem from="1745308405707" duration="5037000" />
       <workItem from="1745421464141" duration="4252000" />
       <workItem from="1745433734063" duration="3362000" />
-      <workItem from="1745537166788" duration="1521000" />
+      <workItem from="1745537166788" duration="2386000" />
     </task>
     <servers />
   </component>
