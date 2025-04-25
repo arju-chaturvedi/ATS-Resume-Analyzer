@@ -22,7 +22,7 @@ Built using Google Gemini's **Generative AI** + **Streamlit**.
 
 ## 📸 Demo GIF
 
-![Demo](Screenshot 2025-04-25 at 12.51.11 PM.png)
+![Demo](https://github.com/arju-chaturvedi/ATS-Resume-Analyzer/blob/main/Screenshot%202025-04-25%20at%2012.51.11%20PM.png)
 
 ---
 
