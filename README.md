@@ -12,7 +12,7 @@ Built using Google Gemini's **Generative AI** + **Streamlit**.
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://YOUR-DEPLOYED-URL.streamlit.app)
+👉 ats-resume-analyzer ∙ main ∙ app.py
 
 ---
 
