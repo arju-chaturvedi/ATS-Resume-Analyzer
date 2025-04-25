@@ -1,3 +1,7 @@
+![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit)
+![Powered by Gemini AI](https://img.shields.io/badge/Powered%20by-Gemini%20Pro-blueviolet?logo=google)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+
 # 📄 ATS Resume Analyzer using Gemini + Streamlit
 
 An **AI-powered ATS resume analyzer** that lets users upload their resume and job descriptions to receive:
