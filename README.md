@@ -1,23 +1,37 @@
-# ATS-Resume-Analyzer
-ATS Resume Analyzer using Streamlit &amp; Gemini | Analyze resumes against job descriptions with Generative AI
-🚀 ATS Resume Analyzer – Built with Streamlit & Gemini AI
+# 📄 ATS Resume Analyzer using Gemini + Streamlit
 
-An interactive web app that mimics an Applicant Tracking System (ATS). Users can:
+An **AI-powered ATS resume analyzer** that lets users upload their resume and job descriptions to receive:
+- ✅ Match percentage
+- 📋 Missing keywords
+- 💪 Strengths
+- 🔧 Areas of improvement
 
-✅ Upload a resume (PDF)
-✅ Paste a job description
-✅ Instantly receive:
+Built using Google Gemini's **Generative AI** + **Streamlit**.
 
-Eligibility percentage
+---
 
-Detailed feedback
+## 🚀 Live Demo
 
-Strengths
+👉 [Click here to try the app](https://YOUR-DEPLOYED-URL.streamlit.app)
 
-Areas of improvement
+---
 
-🧠 Powered by Gemini (Google's Generative AI), the app intelligently matches the resume to the job description using natural language understanding.
+## 📸 Demo GIF
 
-🔍 PDF processing is done using pdf2image, and the app is deployed using Streamlit. All sensitive keys are managed securely using .env files.
+![Demo](demo.gif)
 
-💡 Tech Stack: Python, Streamlit, Google Generative AI, dotenv, pdf2image, base64, Git, Markdown
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-API-blue?style=for-the-badge)
+![Google Generative AI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 📦 Setup Instructions
+
+1. Clone this repo  
+2. Create `.env` file and add:
