@@ -10,6 +10,23 @@ An **AI-powered ATS resume analyzer** that lets users upload their resume and jo
 - 💪 Strengths
 - 🔧 Areas of improvement
 
+- ## 🚀 Features
+
+- 📝 Upload your resume (PDF or DOCX)
+- 💼 Paste the job description of your target role
+- 🧠 Extracts keywords and skills using NLP
+- 📊 Calculates a match percentage
+- ✅ Provides suggestions to improve alignment
+- ⚡ Real-time analysis via a user-friendly interface
+
+- ## 🧠 How It Works
+
+1. **Resume Parsing**: Reads your uploaded resume and extracts key sections like skills, experience, and education.
+2. **Job Description Analysis**: Extracts keywords and required skills from the provided job description.
+3. **Keyword Matching**: Compares both texts to calculate a match score.
+4. **Score Breakdown**: Shows your resume’s alignment with job requirements and areas needing improvement.
+
+
 Built using Google Gemini's **Generative AI** + **Streamlit**.
 
 ---
@@ -42,7 +59,56 @@ https://github.com/arju-chaturvedi/ATS-Resume-Analyzer/blob/main/Screenshot%2020
 
 ---
 
-## 📦 Setup Instructions
+## 📦 Installation
 
-1. Clone this repo  
-2. Create `.env` file and add:
+1. **Clone the repository**
+```bash
+git clone https://github.com/arju-chaturvedi/ATS-Resume-Analyzer.git
+cd ATS-Resume-Analyzer
+```
+
+2. **Create a virtual environment**
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+4. **Run the app**
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📁 Project Structure
+
+```
+ATS-Resume-Analyzer/
+├── app.py
+├── resume_parser.py
+├── requirements.txt
+├── .env.example
+├── assets/
+└── README.md
+```
+
+---
+
+## 📚 References
+
+- [spaCy](https://spacy.io/)
+- [NLTK](https://www.nltk.org/)
+- [Streamlit](https://streamlit.io/)
+
+---
+
+## 🙌 Acknowledgements
+
+- Inspired by the need for career support tools that bridge the gap between job seekers and AI-based recruitment systems.
+- Built and guided with support from OpenAI’s ChatGPT and educational platforms.
+
