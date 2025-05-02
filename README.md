@@ -26,6 +26,8 @@ Built using Google Gemini's **Generative AI** + **Streamlit**.
 
 https://github.com/arju-chaturvedi/ATS-Resume-Analyzer/blob/main/Screenshot%202025-05-02%20at%2011.41.38%20PM.png
 
+https://github.com/arju-chaturvedi/ATS-Resume-Analyzer/blob/main/Screenshot%202025-05-02%20at%2011.41.50%20PM.png
+
 
 ---
 
