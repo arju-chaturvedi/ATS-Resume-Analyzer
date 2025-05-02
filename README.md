@@ -28,6 +28,8 @@ https://github.com/arju-chaturvedi/ATS-Resume-Analyzer/blob/main/Screenshot%2020
 
 https://github.com/arju-chaturvedi/ATS-Resume-Analyzer/blob/main/Screenshot%202025-05-02%20at%2011.41.50%20PM.png
 
+https://github.com/arju-chaturvedi/ATS-Resume-Analyzer/blob/main/Screenshot%202025-05-02%20at%2011.42.21%20PM.png
+
 
 ---
 
