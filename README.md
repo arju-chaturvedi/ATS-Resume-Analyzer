@@ -31,12 +31,6 @@ Built using Google Gemini's **Generative AI** + **Streamlit**.
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click here to try the app] https://ats-resume-analyzer-o6hhgwn8gindy7se4fsys4.streamlit.app/
-
----
-
 ## 📸 Demo GIF
 
 ![Demo](https://github.com/arju-chaturvedi/ATS-Resume-Analyzer/blob/main/Screenshot%202025-04-25%20at%201.00.08%20PM.png)
